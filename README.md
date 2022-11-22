@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 680470a50c457de32725536667d0a10a8ae4e0ff
 # SITE-RESTAURANTE-2
