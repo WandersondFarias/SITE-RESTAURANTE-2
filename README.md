@@ -8,7 +8,7 @@
 
 ## 🎨 Layout
 
-![](gif.jpg.gif)
+![](gif.jpg)
 
 <hr>
 
