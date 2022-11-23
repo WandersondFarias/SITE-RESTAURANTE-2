@@ -1,9 +1,5 @@
 # SITE-RESTAURANTE-2
 
-
-<img src="./img/logo-site.jpg" width="2000px" alt="foto wanderson"/><br>
-
-
 <hr>
 
 ## 🎨 Layout
