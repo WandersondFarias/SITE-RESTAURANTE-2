@@ -4,6 +4,16 @@
 <img src="./img/logo-site.jpg" width="2000px" alt="foto wanderson"/><br>
 
 
+<hr>
+
+## 🎨 Layout
+
+![](gif.jpg.gif)
+
+<hr>
+
+
+
 ### Ajustes e melhorias
 
 O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
